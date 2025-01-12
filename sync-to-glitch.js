@@ -1,6 +1,6 @@
 const { exec } = require("child_process");
 
-const GLITCH_PROJECT_NAME = "free-dull-amusement";
+const GLITCH_PROJECT_NAME = "east-nice-ferret";
 const GLITCH_TOKEN = "e073a045-f1c3-436c-89da-29e3b7a6e2f6";
 const GLITCH_GIT_URL = `https://${GLITCH_TOKEN}@api.glitch.com/git/${GLITCH_PROJECT_NAME}`;
 
